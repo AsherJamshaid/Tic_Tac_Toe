@@ -15,7 +15,7 @@ A simple **Tic Tac Toe game** built using **Python Tkinter**.
 
 ## How to Run
 1. Make sure **Python** is installed on your system.
-2. Download the `main.py` file.
+2. Download the `tic_tac_toe.py` file.
 3. Run the file using terminal or IDE:
 
 ```bash
